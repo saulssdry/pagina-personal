@@ -1,0 +1,65 @@
+<html>
+
+<head>
+
+<tetle>HABILIDADES</title>
+
+<style>
+
+#principal{
+	border: solid 4px; 
+	padding: 20px;
+	width: 80%;
+	margin: 0 auto;
+	background: #8b8080
+
+		}
+	body{
+	background:url(descarga.jpg);
+	background-size: 100%;
+	background-attachment:fixed;
+	}
+	legend{
+	border: solid 1px;
+	padding: 5px;
+	font-weight: bold;
+	border-radius: 10px;
+	background: #cccccc
+	}
+
+</style>
+</head>
+
+<body>
+
+<div id="principal">
+
+<h1>Habilidades</h1>
+<hr>
+
+
+
+
+<fieldset>
+<font size="4">
+		<legend>Datos</legend>
+		<ul>
+		<li>Habilidad para planificar, coordinar, dirigir y supervisar las actividades generadas por el grupo de trabajo donde se preste el servicio.</li>
+<br/>
+		<li>Habilidad para elaborar estadísticas, cuadros demostrativos e informes específicos..</li>
+<br/>
+		<li>Habilidad para tratar en forma cortés y efectiva con personal y público en general.</li>
+<br/>
+		<li>Habilidad para seguir instrucciones orales y escritas impartidas por el supervisor inmediato.</li>
+<br/>
+		<li>Habilidad para solucionar fallas de un computador y redes locales y herramientas informáticas.</li>	
+		</ul>
+</font>
+		</fieldset>
+</div>
+
+
+
+</body>
+
+</html>
